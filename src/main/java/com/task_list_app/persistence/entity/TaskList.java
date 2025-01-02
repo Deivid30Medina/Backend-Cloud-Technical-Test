@@ -20,9 +20,9 @@ public class TaskList {
     @NotBlank(message = "Title cannot be empty or just spaces.")
     private String title;
 
-    @NotNull(message = "Description cannot be empty")
+    @NotNull(message = "Description can not be empty")
     @Size(max = 255, message = "The description cannot be longer than 255 characters.")
-    @NotBlank(message = "Description cannot be empty or just spaces.")
+    @NotBlank(message = "Description can not be empty or just spaces.")
     private String description;
 
     public Long getId() {
