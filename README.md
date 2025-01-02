@@ -62,7 +62,7 @@ Before running the project, ensure the following prerequisites are met:
 
 To run the tests, ensure you are in the **Backend-Cloud-Technical-Test** project folder.
 
-1.  Correr los test:
+1.  Run test:
    
     ```bash
     mvn test
