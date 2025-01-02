@@ -1,0 +1,10 @@
+com\task_list_app\persistence\entity\TaskList.class
+com\task_list_app\service\TaskService.class
+com\task_list_app\persistence\repository\TaskRepository.class
+com\task_list_app\config\CorsConfig$1.class
+com\task_list_app\exception\GlobalExceptionHandler.class
+com\task_list_app\config\CorsConfig.class
+com\task_list_app\service\impl\TaskServiceImpl.class
+com\task_list_app\TaskListAppApplication.class
+com\task_list_app\exception\dto\ApiError.class
+com\task_list_app\controller\TaskController.class

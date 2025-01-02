@@ -1,0 +1,9 @@
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\config\CorsConfig.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\controller\TaskController.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\exception\dto\ApiError.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\exception\GlobalExceptionHandler.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\persistence\entity\TaskList.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\persistence\repository\TaskRepository.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\service\impl\TaskServiceImpl.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\service\TaskService.java
+D:\deivi\Documents\Trabajos\Buscando-Trabajo\Banco Bogota\Backend-Cloud-Technical-Test\src\main\java\com\task_list_app\TaskListAppApplication.java
